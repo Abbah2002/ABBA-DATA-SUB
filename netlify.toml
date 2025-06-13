@@ -1,4 +1,4 @@
-# ABBA-DATA-SUB[build]
+[build]
   command = "npm run build"
   publish = "dist"
 
